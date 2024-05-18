@@ -13,7 +13,7 @@ Welcome to my Github page! I am Hamed and I am currently junior CS Student at SU
 #### 🌱 Things I am currently working on: 
 - FrontEnd Developer   
 - Taking online courses about FrontEnd APIs  
-- Finishing E-Learning WebSite [OnePyOne](https://github.com/Hamed-bavaria/WDT/tree/main) 🚀 coming soon
+- Finishing E-Learning WebSite [OnePyOne](https://github.com/Hamed-bavaria/WDT/tree/main) 🚀
 
 #### :muscle: Things I am challenging myself with:
 - Coding at least 3 hours a day
